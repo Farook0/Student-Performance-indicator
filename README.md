@@ -1,1 +1,1 @@
-## this is for my machine leearning end to end development
+## this is for my machine learning end to end development
