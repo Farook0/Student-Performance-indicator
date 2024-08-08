@@ -5,4 +5,5 @@ scikit-learn
 catboost
 pyproject-toml
 xgboost
+dill
 -e .
