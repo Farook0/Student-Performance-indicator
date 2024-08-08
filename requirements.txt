@@ -6,5 +6,4 @@ catboost
 pyproject-toml
 xgboost
 dill
-#libomp for mac to execute xgboost
 -e .
