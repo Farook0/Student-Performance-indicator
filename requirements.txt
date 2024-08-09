@@ -6,4 +6,4 @@ catboost
 pyproject-toml
 xgboost
 dill
--e .
+#-e .
